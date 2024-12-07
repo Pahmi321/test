@@ -4,5 +4,7 @@ WPU RESOLUSI
 - MEMBUAT FORUM DISKUSI
 - KOLABORASI DENGAN TEMAN
 - MENINGKATKAN PENDANAAN
- * Mencari Donasi pihak Pribadi
- * Potong Gaji
+- Rencana-Pendanaan-1
+  * Efisien Pembiayaan
+  * Cari Investor
+
